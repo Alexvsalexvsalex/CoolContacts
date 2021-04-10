@@ -1,3 +1,3 @@
 # CoolContacts
 
-Приложение "Контакты" для ОС Android.
+"Contacts" app for Android OS.
